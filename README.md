@@ -35,5 +35,5 @@ The content contains several independent modules that cover different aspects of
 | 14:45-15:15 | [Cloning a Java Cloud Service Instance Using a Snapshot](https://github.com/dvukmano/learning-library/blob/master/workshops/cloud-native-devops-workshop/jcs-clone/README.md) |
 | **15:15-15:30** | **Coffee break** |
 | 15:30-16:10 | [Deploy application to WebLogic running on Kubernetes (OKE)](https://github.com/nagypeter/weblogic-kubernetes-operator-on-OKE) |
-| 16:10-16:30 | [Deploy Application directly from Github to Application Container Cloud Service](https://github.com/nagypeter/weblogic-kubernetes-operator-on-OKE/blob/master/tutorials/sample.app.pipeline.md) |
+| 16:10-16:30 | [Deploy Application directly from Github to Application Container Cloud Service](https://github.com/nagypeter/angular-java-creditscore/blob/master/github.deploy.accs.md) |
 | 16:30-17:00 | [Helidon Demo]() |
